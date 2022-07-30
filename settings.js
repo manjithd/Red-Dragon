@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is M.I.M.DHARMASIRI🔥
 My Creator is Manjitha Dharmasiri😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94714204539'] //Owner number in aive msg
-global.premium = ['+94714204539'] //Owner Number info
-global.ownernomer = '+94714204539' //Owner Number <<<
+global.owner = ['+94717428026'] //Owner number in aive msg
+global.premium = ['+94717428026'] //Owner Number info
+global.ownernomer = '+94717428026' //Owner Number <<<
 
 global.ownername = '😎MANJITHA DHARMASIRI' //Owner Name
 global.botname = ' ☬MANJITH༒D.SILWA' //Bot Name
@@ -43,7 +43,7 @@ global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://www.youtube.com/channel/UC1l-5-M_OFgYkvkL8PYHCcw' //YT MANJITHA!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
